@@ -1,10 +1,10 @@
 # Linux Commands
 
-#### Introduction
+## Introduction
 
 This document is my notes of learning Linux (ubuntu) commands and usage scenarios.
 
-#### Commands
+## Commands
 
 One way to locate programs is to employ the `which` utility. For example, to find out exactly where the `diff `program resides on the filesystem
 
