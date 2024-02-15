@@ -201,6 +201,5 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6212.5 avail Mem
 
 18\. `htop` Provides the same information as the top command but with a more user-friendly interface. It allows for more straightforward navigation and sorting of processes and also includes color-coded displays for easier readability
 
-[![image.png](https://wiki.mjagadeesh.com/uploads/images/gallery/2024-01/scaled-1680-/gYnYBNMvRhHSA0N2-image.png)](https://wiki.mjagadeesh.com/uploads/images/gallery/2024-01/gYnYBNMvRhHSA0N2-image.png)
+![image](https://github.com/jgdsh/Linux/assets/13267711/c2713e48-fca8-4c87-9536-6e690e1e766f)
 
-19\.
