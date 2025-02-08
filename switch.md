@@ -12,4 +12,4 @@
 
 - Showing information for a particular client MAC address:
 
- `switch# show port-access clients mac 2c:41:38:7f:35:c8 detail`
+  `switch# show port-access clients mac 2c:41:38:7f:35:c8 detail`
