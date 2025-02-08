@@ -4,6 +4,6 @@ Here i will note down all information related to my journey in the world of Linu
 
 ### Other pages
 
-[Switch Commands](https://jgdsh.github.com/Linux/switch)
+[Switch Commands](https://jgdsh.github.io/Linux/switch)
 
-[Linux Commands](https://jgdsh.github.com/Linux/commands)
+[Linux Commands](https://jgdsh.github.io/Linux/commands)
