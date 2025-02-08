@@ -1,5 +1,7 @@
 # Aruba Switch Configuration & Commands
 
+> [Commands switch Reference Guide](https://arubanetworking.hpe.com/techdocs/CLI-Bank/Content/Home.htm)
+
 ## Show commands
 
 - Shows information about the status of the role applied on ports
