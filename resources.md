@@ -23,5 +23,25 @@
 - To check if a remote port is open
 
     ``` powershell
-    tnc myserver.newagedns.com -port 85
+    tnc myserver.mydns.com -port 85
     ```
+
+- To get a serial number of a computer
+
+    ```powershell
+    wmic bios get serialnumber
+    ```
+
+- Check when was the computer last booted
+
+    ```powershell
+    Systeminfo | find "System Boot Time"
+    ```
+
+- `netsh wlan show wlanreport`
+
+- `powercfg /batteryreport`
+
+- `Get-Service`
+
+- `Get-EventLog`
