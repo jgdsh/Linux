@@ -2,7 +2,7 @@
 
 1. For all Intune/M365 related [https://www.prajwaldesai.com/](https://www.prajwaldesai.com/)
 2. Intune debug toolkit <https://msendpointmgr.com/intune-debug-toolkit/>
-3. 
+3. Intune Step by step <https://msendpointmgr.com/2024/07/05/onboarding-modern-with-autopilot-magic-trick-revealed/>
 
 
 ## PowerShell Related
