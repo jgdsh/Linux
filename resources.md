@@ -38,6 +38,8 @@
     Systeminfo | find "System Boot Time"
     ```
 
+# Other useful Powershell Commands 
+
 - `netsh wlan show wlanreport`
 
 - `powercfg /batteryreport`
