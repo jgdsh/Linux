@@ -38,7 +38,7 @@
     Systeminfo | find "System Boot Time"
     ```
 
-# Other useful Powershell Commands 
+## Other useful Powershell Commands 
 
 - `netsh wlan show wlanreport`
 
